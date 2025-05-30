@@ -1,11 +1,11 @@
-![Pizza Banner](images/pizza%20image.jpg)
-
+<p align="center">
+  <img src="images/pizza%20image.jpg" style="max-width: 100%; height: auto;" alt="Pizza Banner">
+</p>
 # Pizza Sales Data Analysis
 
 ## Background and Overview
 Understanding customer behavior and product performance is crucial for optimizing sales in the food industry. This project explores a comprehensive dataset from a pizza sales database, analyzing sales trends, peak business hours, and product popularity to generate actionable business recommendations.
 
----
 
 ## Data Structure Overview
 The dataset includes the following key tables and attributes:
