@@ -73,3 +73,14 @@ Offer minimal upsell pricing to shift customers to larger sizes and improve orde
 Test new variants of best-selling pizzas as limited-time offers to maintain engagement.
 
 ---
+
+## 📎 Next Steps
+
+- 📈 Build interactive dashboards with Excel or Power BI.
+- ⚙️ Automate reporting pipelines.
+- 📣 Collaborate with marketing to turn insights into campaigns.
+
+---
+
+Made with ❤️ by a pizza enthusiast & data analyst.
+
