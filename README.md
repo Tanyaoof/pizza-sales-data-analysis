@@ -1,7 +1,7 @@
 <p align="center">
   <img src="images/pizza%20image.jpg" style="max-width: 100%; height: auto;" alt="Pizza Banner">
 </p>
-# Pizza Sales Data Analysis
+
 
 ## Background and Overview
 Understanding customer behavior and product performance is crucial for optimizing sales in the food industry. This project explores a comprehensive dataset from a pizza sales database, analyzing sales trends, peak business hours, and product popularity to generate actionable business recommendations.
@@ -63,7 +63,7 @@ This report delivers a high-level view of sales performance across pizza categor
 ### 5. Revenue by Pizza Category
 - Breaks down overall sales by pizza category (e.g., Veggie, Classic, Chicken).
 
-![Category Revenue](images/revenue%20generated%20by%20each%20category.png)
+![Category Revenue](images/revenue%20generated%20by%20each%20category%20of%20pizza.png)
 
 ---
 
