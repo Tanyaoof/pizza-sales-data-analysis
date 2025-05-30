@@ -87,8 +87,8 @@ Based on the analysis, the following business strategies are recommended:
 
 ---
 
-**Developed by:** *[Your Name]*  
-**Tools Used:** Excel, GitHub (Markdown), Python (optional)  
+**Developed by:** *Tanya Yadav*  
+**Tools Used:** Excel, MYSQL, Python (optional)  
 **Dataset:** See `pizza_sales.zip` for the raw data
 
 > All images and charts used in this README are stored in the `/images/` folder of this repository. Please ensure they are properly named as referenced above.
